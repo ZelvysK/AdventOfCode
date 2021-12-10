@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ginte\\.nuget\\packages\\": {}
+    "C:\\Users\\koral\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ginte\\source\\repos\\AdventOfCode\\AdventOfCode2\\AdventOfCode2.csproj",
+      "projectUniqueName": "C:\\Users\\koral\\Source\\Repos\\AdventOfCode\\AdventOfCode2\\AdventOfCode2.csproj",
       "projectName": "AdventOfCode2",
-      "projectPath": "C:\\Users\\ginte\\source\\repos\\AdventOfCode\\AdventOfCode2\\AdventOfCode2.csproj",
-      "packagesPath": "C:\\Users\\ginte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ginte\\source\\repos\\AdventOfCode\\AdventOfCode2\\obj\\",
+      "projectPath": "C:\\Users\\koral\\Source\\Repos\\AdventOfCode\\AdventOfCode2\\AdventOfCode2.csproj",
+      "packagesPath": "C:\\Users\\koral\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\koral\\Source\\Repos\\AdventOfCode\\AdventOfCode2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ginte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\koral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

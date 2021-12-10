@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\ginte\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\ginte\\.nuget\\packages"
+      "C:\\Users\\koral\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\koral\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ]
   }
 }
